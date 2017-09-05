@@ -1,0 +1,44 @@
+{
+	"_id" : ObjectId("59ae6d8525f3d3a1d349acce"),
+	"name" : "Burger",
+	"subcategory" : [
+		"Veg. Burger",
+		"Veg. Chicken Burger",
+		"Veg. Mix Burger",
+		"Veg Triple Burger",
+		"Veg. Crispy Burger"
+	]
+}
+{
+	"_id" : ObjectId("59ae6d9325f3d3a1d349accf"),
+	"name" : "Noodles",
+	"subcategory" : [
+		"Veg. Noodels",
+		"Veg. Chicken Noodles",
+		"Veg. Mix Noodles",
+		"Veg Triple Noodles",
+		"Veg. Garlic Noodles"
+	]
+}
+{
+	"_id" : ObjectId("59ae866bc47e70b7d6396e40"),
+	"name" : "Soup",
+	"subcategory" : [
+		"Veg. Sweet Corn Soup",
+		"Veg. Manchow Soup",
+		"Veg. Hong Kong Soup",
+		"Veg. Tomato Soup",
+		"Chicken Sweet Corn Soup"
+	]
+}
+{
+	"_id" : ObjectId("59ae8678c47e70b7d6396e41"),
+	"name" : "Fried Rice",
+	"subcategory" : [
+		"Veg. Fried Rice",
+		"Veg. Schezwan Fried Rice",
+		"Veg. Garlic Rice",
+		"Veg. Manchurian Rice",
+		"Veg. Triple Schezwan Rice"
+	]
+}
